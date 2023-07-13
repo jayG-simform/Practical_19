@@ -1,0 +1,12 @@
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\jay\source\repos\PracticalOfCore\Practical_19\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

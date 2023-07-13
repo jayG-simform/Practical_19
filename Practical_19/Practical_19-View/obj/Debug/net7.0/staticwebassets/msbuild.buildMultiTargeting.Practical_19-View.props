@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practical_19-View.props" />
+</Project>
